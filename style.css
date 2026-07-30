@@ -9,7 +9,7 @@ p{
 }
 
 body {
-    background-color: ver(--pale-blue);
+    background-color: var(--pale-blue);
     text-align: center;
 }
 
